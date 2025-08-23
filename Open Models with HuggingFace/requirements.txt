@@ -1,0 +1,13 @@
+transformers
+torch
+sentence-transformers
+datasets
+soundfile
+librosa
+gradio
+inflect
+timm
+phonemizer
+
+matplotlib
+
